@@ -693,4 +693,4 @@ name.Upper()
 
 ## Что дальше
 
-- Следующий урок: [Урок 4. Условия if / elif / else](../lesson-04-conditions/README.md)
+- Следующий урок: [Урок 4. Условия if / elif / else](../Урок_04_Условия_if_elif_else/README.md)
